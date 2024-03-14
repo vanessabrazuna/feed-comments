@@ -20,7 +20,8 @@ Application created in class, promoted by Rocketseat for teaching WEB technologi
 
 This project was developed with the following technologies:
 
-- HTML e CSS
+- HTML
+- CSS Modules
 - ReactJs
 - Typescript
 - Phosphor-React
